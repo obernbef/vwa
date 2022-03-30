@@ -1,0 +1,19 @@
+# Directories
+Machine-Learning/
+__pycache__/
+Algorithmen-In-Python/
+.ipynb_checkpoints/
+testing/
+julia/
+qgames/
+connect-four/
+.vscode/
+
+# Files
+*.sublime-workspace
+*.sublime-project
+*.odt
+*.doc
+*.docx
+*.ipynb
+*.pyc
